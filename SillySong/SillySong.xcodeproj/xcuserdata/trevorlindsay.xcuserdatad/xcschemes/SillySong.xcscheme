@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4FBE519C1FD03355009CF2D4"
-               BuildableName = "Silly Song.app"
-               BlueprintName = "Silly Song"
-               ReferencedContainer = "container:Silly Song.xcodeproj">
+               BlueprintIdentifier = "4F27AA6C1FD3255900B1F159"
+               BuildableName = "SillySong.app"
+               BlueprintName = "SillySong"
+               ReferencedContainer = "container:SillySong.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FBE519C1FD03355009CF2D4"
-            BuildableName = "Silly Song.app"
-            BlueprintName = "Silly Song"
-            ReferencedContainer = "container:Silly Song.xcodeproj">
+            BlueprintIdentifier = "4F27AA6C1FD3255900B1F159"
+            BuildableName = "SillySong.app"
+            BlueprintName = "SillySong"
+            ReferencedContainer = "container:SillySong.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FBE519C1FD03355009CF2D4"
-            BuildableName = "Silly Song.app"
-            BlueprintName = "Silly Song"
-            ReferencedContainer = "container:Silly Song.xcodeproj">
+            BlueprintIdentifier = "4F27AA6C1FD3255900B1F159"
+            BuildableName = "SillySong.app"
+            BlueprintName = "SillySong"
+            ReferencedContainer = "container:SillySong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FBE519C1FD03355009CF2D4"
-            BuildableName = "Silly Song.app"
-            BlueprintName = "Silly Song"
-            ReferencedContainer = "container:Silly Song.xcodeproj">
+            BlueprintIdentifier = "4F27AA6C1FD3255900B1F159"
+            BuildableName = "SillySong.app"
+            BlueprintName = "SillySong"
+            ReferencedContainer = "container:SillySong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

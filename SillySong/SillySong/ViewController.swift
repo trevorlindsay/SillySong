@@ -25,18 +25,16 @@ func shortNameFromName(name: String) -> String {
         let shortName = String(name.characters.suffix(from: range.lowerBound))
         return shortName
     } else {
-        return ""
+        return name
     }
 }
 
 
 func lyricsForName(lyricsTemplate: String, fullName: String) -> String {
     let shortName = shortNameFromName(name: fullName)
-    
     let lyrics = lyricsTemplate
         .replacingOccurrences(of: "<FULL_NAME>", with: fullName)
         .replacingOccurrences(of: "<SHORT_NAME>", with: shortName)
-    
     return lyrics
 }
 

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Silly Song
+//  SillySong
 //
-//  Created by Trevor Lindsay on 11/30/17.
+//  Created by Trevor Lindsay on 12/2/17.
 //  Copyright © 2017 Trevor Lindsay. All rights reserved.
 //
 
